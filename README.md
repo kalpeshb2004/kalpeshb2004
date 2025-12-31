@@ -4,20 +4,21 @@
 
 ## 🌐 Connect with me:
 
-<p align="left" style="display: flex; gap: 12px;">
-  <a href="https://linkedin.com/in/kalpesh-bhure" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+<p align="left">
+  <a href="https://linkedin.com/in/kalpesh-bhure">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/kalpesh_bhure" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  <a href="https://instagram.com/kalpesh_bhure">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://discord.gg/XgyACQk4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40"/>
+  <a href="https://discord.gg/XgyACQk4">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://t.me/kalpeshb01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40"/>
+  <a href="https://t.me/kalpeshb01">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
