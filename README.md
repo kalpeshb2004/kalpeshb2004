@@ -1,8 +1,6 @@
 # 💫 About Me:
 🎓 MCA Student <br><br>💻 Currently learning: HTML5 · CSS3 · C++ · JavaScript · Java · AI Integretion<br><br>🌱 Building my skills toward Web applications & Web3 & Blockchain development<br><br>🎯 Looking to collaborate on beginner-friendly web projects<br><br>💡 Interested in the Crypto & Web3 ecosystem
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalpesh_bhure)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalpesh-bhure)
