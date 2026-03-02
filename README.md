@@ -1,47 +1,22 @@
 # 💫 About Me:
-🎓 I'am currently studing as MCA student | freelance Web3 & Blockchain enthusiast<br>💻 I have few knowledge about Crypto Blockchain Ecosystem, HTML, CSS, JavaScript<br>🌱 Currently learning advanced JavaScript, java & Web3 development<br>🌐 Freelance contributor to crypto & Web3 projects<br><br><br><br>
+🎓 MCA Student <br><br>💻 Currently learning: HTML5 · CSS3 · C++ · JavaScript · Java · AI Integretion<br><br>🌱 Building my skills toward Web3 & Blockchain development<br><br>🎯 Looking to collaborate on beginner-friendly web projects<br><br>💡 Interested in the Crypto & Web3 ecosystem
 
 
-## 🌐 Connect with me:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalpesh_bhure) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalpesh bhure) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akshark43211234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalpeshbhure01@gmail.com) 
 
-<p align="left">
-  <a href="https://linkedin.com/in/kalpesh-bhure">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/kalpesh_bhure">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://discord.gg/XgyACQk4">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://t.me/kalpeshb01">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-
-
-
- 
-
-## 💻 Coding Skills:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-</p>
-
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kalpeshb2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kalpeshb2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kalpeshb2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshb2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshb2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kalpeshb2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kalpeshb2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kalpeshb2004&icon=0&color=0)](https://visitcount.itsvg.in)
