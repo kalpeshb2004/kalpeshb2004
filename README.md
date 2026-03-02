@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 MCA Student <br><br>💻 Currently learning: HTML5 · CSS3 · C++ · JavaScript · Java · AI Integretion<br><br>🌱 Building my skills toward Web3 & Blockchain development<br><br>🎯 Looking to collaborate on beginner-friendly web projects<br><br>💡 Interested in the Crypto & Web3 ecosystem
+🎓 MCA Student <br><br>💻 Currently learning: HTML5 · CSS3 · C++ · JavaScript · Java · AI Integretion<br><br>🌱 Building my skills toward web applications & Web3 & Blockchain development<br><br>🎯 Looking to collaborate on beginner-friendly web projects<br><br>💡 Interested in the Crypto & Web3 ecosystem
 
 
 ## 🌐 Socials:
